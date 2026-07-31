@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VariableDescriptionMetaData SchemaVersion="1">
+  <SerializedFileName>App_digital1.vdp</SerializedFileName>
+  <IsActive>true</IsActive>
+  <FileName>App_digital1.sdf</FileName>
+  <VariableDescriptionSourcePathAndFileName>..\..\..\..\..\Users\MURTI\OneDrive\Desktop\Santhosh\basic_dspace\basic_digital1\App_digital1\Build Results\App_digital1.sdf</VariableDescriptionSourcePathAndFileName>
+  <ImportOptions>
+    <DisableLookupDetection>false</DisableLookupDetection>
+    <MeasurementArrayOmitThreshold>200000</MeasurementArrayOmitThreshold>
+    <ValueBlockOmitThreshold>200000</ValueBlockOmitThreshold>
+  </ImportOptions>
+</VariableDescriptionMetaData>

@@ -1,0 +1,15 @@
+[System]
+Version=2.2
+SystemType=SingleProcessorSystem
+DAQService=DsDAQ
+DsDAQBackground=1
+Status=Start
+File=Digital_signal1_genaration.rta
+RTP=1
+
+[1]
+ID=4d0970c7-0793-437b-98c7-43c51073b62c
+Type=DSRTPC
+ServiceID=1
+TraceFile=Digital_signal_genartion.trc
+

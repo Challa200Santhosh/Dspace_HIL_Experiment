@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VariableDescriptionMetaData SchemaVersion="1">
+  <SerializedFileName>Digital_signal1_genaration.vdp</SerializedFileName>
+  <IsActive>true</IsActive>
+  <FileName>Digital_signal1_genaration.sdf</FileName>
+  <VariableDescriptionSourcePathAndFileName>..\..\..\..\..\Users\MURTI\OneDrive\Desktop\Santhosh\basic_dspace\Digital_signal_genaration\Configuration_desk\Digital_signal\Digital_signal1_genaration\Build Results\Digital_signal1_genaration.sdf</VariableDescriptionSourcePathAndFileName>
+  <ImportOptions>
+    <DisableLookupDetection>false</DisableLookupDetection>
+    <MeasurementArrayOmitThreshold>200000</MeasurementArrayOmitThreshold>
+    <ValueBlockOmitThreshold>200000</ValueBlockOmitThreshold>
+  </ImportOptions>
+</VariableDescriptionMetaData>
